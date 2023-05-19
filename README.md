@@ -2,8 +2,8 @@
 ## Olá Devs! 👾
 
 <p>
-Meu nome é Camilla, tenho 28 anos e sou de Curitiba-PR. Sou apaixonada por dogs, dados, café e Netflix. </br>
-Sou formada em Análise de Sistemas e estudante do universo de data analytics e data science.</p>
+Meu nome é Camilla, tenho 29 anos e sou de Curitiba-PR. Sou apaixonada por dogs, dados, café e Netflix. </br>
+Sou formada em Análise de Sistemas e estudante de data science.</p>
 
 <img src="https://super.abril.com.br/wp-content/uploads/2016/12/dog-tra.gif" width="400px" style="max-width: 100%;">
 
