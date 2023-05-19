@@ -3,7 +3,7 @@
 
 <p>
 Meu nome é Camilla, tenho 29 anos e sou de Curitiba-PR. Sou apaixonada por dogs, dados, café e Netflix. </br>
-Sou formada em Análise de Sistemas e estudante de data science.</p>
+Sou formada em Análise de Sistemas, trabalho como Analista de Dados e sou estudante de Data Science.</p>
 
 <img src="https://super.abril.com.br/wp-content/uploads/2016/12/dog-tra.gif" width="400px" style="max-width: 100%;">
 
@@ -11,7 +11,7 @@ Sou formada em Análise de Sistemas e estudante de data science.</p>
 
 ### Tecnologias e ferramentas 🖥️
 
-<p align="left" dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Atualmente estou aperfeiçoando meus conhecimentos em Python, SQL e matemática.</p>
+<p align="left" dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Atualmente estou aperfeiçoando meus conhecimentos em Python, SQL e machine learning.</p>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></a></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></a></code>
